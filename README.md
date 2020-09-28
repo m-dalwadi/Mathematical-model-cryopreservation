@@ -9,4 +9,4 @@ Download all files and run "Full_solver.m" in MATLAB, where the argument is the 
 
 ## Acknowledging this work
 If you publish any work based on the contents of this repository please cite:
-[PLACEHOLDER for publication link]
+Dalwadi, Mohit P., et al. "A Mathematical Framework for Developing Freezing Protocols in the Cryopreservation of Cells." SIAM Journal on Applied Mathematics 80.2 (2020): 657-689. DOI: https://doi.org/10.1137/19M1275875
